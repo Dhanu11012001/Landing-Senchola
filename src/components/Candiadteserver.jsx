@@ -55,7 +55,7 @@ function Candiadteserver() {
  </br>
 
 
- <h1 className=" list text-center" >CANDIDATE LIST</h1>
+ <h1 className="list text-center font-serif" >CANDIDATE LIST</h1>
 
  <div className='search-container'>
 
