@@ -1,0 +1,28 @@
+{
+
+    "user":[
+        [
+            {
+              "name": "John Doe",
+              "role": "Software Engineer",
+              "email": "john.doe@example.com",
+              "skill": "JavaScript",
+              "avatar": "https://robohash.org/john-doe.png"
+            },
+            {
+              "name": "Jane Smith",
+              "role": "UI Designer",
+              "email": "jane.smith@example.com",
+              "skill": "UI/UX Design",
+              "avatar": "https://robohash.org/jane-smith.png"
+            },
+            {
+              "name": "Mike Johnson",
+              "role": "Data Analyst",
+              "email": "mike.johnson@example.com",
+              "skill": "Data Analysis",
+              "avatar": "https://robohash.org/mike-johnson.png"
+            }
+          ]]}
+          
+ 

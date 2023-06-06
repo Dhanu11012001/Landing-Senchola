@@ -1,0 +1,68 @@
+{
+
+  "user":[
+      {
+      "id":1,
+      "name":"Mary Mainor",
+      "role":"Web Developer Internship",
+      "email":"Mary@example.com",
+      "skill":"HTML, CSS, JavaScript, Wordpress, PHP, jQueary",
+      "profile":"https://bootdey.com/img/Content/avatar/avatar1.png",
+      "status":"Active"
+
+      
+      
+      
+
+      },
+      {
+          "id":2,
+          "name":"Jack Hallock",
+          "role":"Graphic Designer Internship ",
+          "email":"Jack@example.com",
+          "skill":"HTML, CSS, JavaScript, Wordpress, PHP, jQueary",
+          "profile":"https://bootdey.com/img/Content/avatar/avatar2.png",
+          "status":"Active"
+      },
+      {
+          "id":3,
+          "name":"Rodney Wells",
+          "role":"Web Developer Internship",
+          "email":"Rodneyp@example.com",
+          "skill":"HTML, CSS, JavaScript, Wordpress, PHP, jQueary",
+          "profile":"https://bootdey.com/img/Content/avatar/avatar3.png",
+          "status":"Active"
+      
+      },
+      
+      {
+          "id":4,
+          "name":"Ruth Miles",
+          "role":"PHP web developer",
+          "email":"Ruth@example.com",
+          "skill":"HTML, CSS, JavaScript, Wordpress, PHP, jQueary",
+          "profile":"https://bootdey.com/img/Content/avatar/avatar4.png",
+          "status":"Active"
+      },
+      {
+          "id":5,
+          "name":"Frank Tower",
+          "role":"Web Designer Internship",
+          "email":"Frankp@example.com",
+          "skill":"HTML, CSS, JavaScript, Wordpress, PHP, jQueary",
+          "profile":"https://bootdey.com/img/Content/avatar/avatar5.png",
+          "status":"Active"
+      },
+      {
+          "id":6,
+          "name":"Jerry Real",
+          "role":"PHP web developer",
+          "email":"jerry@example.com",
+          "skill":"HTML, CSS, JavaScript, Wordpress, PHP, jQueary",
+          "profile":"https://bootdey.com/img/Content/avatar/avatar6.png",
+          "status":"Active"
+      }
+    
+    
+  ]
+}
