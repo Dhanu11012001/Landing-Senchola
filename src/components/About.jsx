@@ -129,8 +129,7 @@ function About (){
       <CCardBody>
         <CCardTitle>Web design</CCardTitle>
         <CCardText>
-          This is a wider card with supporting text below as a natural lead-in to additional
-          content. This content is a little bit longer.
+        Web design refers to the process of creating and designing the visual layout, structure, and functionality of websites. It involves various disciplines, including graphic design, user interface (UI) design, user experience (UX) design, coding, and content creation. Web designers use different tools and technologies to create aesthetically pleasing, user-friendly, and functional websites.
         </CCardText>
       </CCardBody>
     </CCard>
@@ -139,9 +138,9 @@ function About (){
     <CCard className="h-100">
       <CCardImage orientation="top" src={Card2}/>
       <CCardBody>
-        <CCardTitle>Card title</CCardTitle>
+        <CCardTitle>Design And Development</CCardTitle>
         <CCardText>
-          This card has supporting text below as a natural lead-in to additional content.
+        Design refers to the visual and interactive aspects of a website or application. It involves creating the overall layout, typography, color schemes, graphics, and user interface (UI) elements. The goal of design is to create an aesthetically pleasing and user-friendly experience. Designers often use graphic design tools and software to create mockups or prototypes of the website or application before moving into the development phase.
         </CCardText>
       </CCardBody>
     </CCard>
@@ -150,11 +149,10 @@ function About (){
     <CCard className="h-40">
       <CCardImage orientation="top" src={Card3} />
       <CCardBody>
-        <CCardTitle>Card title</CCardTitle>
+        <CCardTitle>Front End</CCardTitle>
         <CCardText>
-          This is a wider card with supporting text below as a natural lead-in to additional
-          content. This card has even longer content than the first to show that equal height
-          action.
+         
+Front-end development refers to the process of building the client-side components of a website or web application. It involves creating and implementing the user interface (UI) elements, interactivity, and visual presentation that users interact with directly. Front-end developers primarily work with HTML, CSS, and JavaScript to bring designs to life in a web browser.
         </CCardText>
       </CCardBody>
     </CCard>
@@ -163,10 +161,10 @@ function About (){
     <CCard className="h-100">
       <CCardImage orientation="top" src={Card4} />
       <CCardBody>
-        <CCardTitle>Card title</CCardTitle>
+        <CCardTitle>Back End</CCardTitle>
         <CCardText>
-          This is a wider card with supporting text below as a natural lead-in to additional
-          content. This content is a little bit longer.
+       
+Backend development refers to the process of creating the server-side components of a website or web application. It involves designing and implementing the server logic, database management, and integrating with external systems or APIs. Backend developers primarily work with programming languages such as Python, Ruby, PHP, Java, or Node.js, as well as frameworks like Django, Ruby on Rails, Laravel, Spring, or Express.js.
         </CCardText>
       </CCardBody>
     </CCard>
@@ -175,10 +173,9 @@ function About (){
     <CCard className="h-100">
       <CCardImage orientation="top" src={Card5} />
       <CCardBody>
-        <CCardTitle>Card title</CCardTitle>
+        <CCardTitle>Digital Marketing</CCardTitle>
         <CCardText>
-          This is a wider card with supporting text below as a natural lead-in to additional
-          content. This content is a little bit longer.
+        Digital marketing encompasses all the marketing efforts and strategies that utilize digital channels and technologies to promote products, services, or brands. It involves leveraging various online platforms, channels, and tools to reach and engage with the target audience, generate leads, drive traffic, and ultimately achieve marketing objectives. Digital marketing strategies can include search engine optimization (SEO), search engine marketing (SEM), social media marketing, content marketing, email marketing, and more.
         </CCardText>
       </CCardBody>
     </CCard>
@@ -187,10 +184,10 @@ function About (){
     <CCard className="h-100">
       <CCardImage orientation="top" src={Card6} />
       <CCardBody>
-        <CCardTitle>Card title</CCardTitle>
+        <CCardTitle>Business Analyst</CCardTitle>
         <CCardText>
-          This is a wider card with supporting text below as a natural lead-in to additional
-          content. This content is a little bit longer.
+        
+A business analyst is a professional who plays a crucial role in analyzing and assessing business processes, systems, and operations to identify areas for improvement and facilitate decision-making. Business analysts work closely with stakeholders, including business managers, project managers, and IT teams, to understand their needs and translate them into actionable requirements.
         </CCardText>
       </CCardBody>
     </CCard>
