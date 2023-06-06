@@ -6,7 +6,8 @@ const reviews = [
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
       text:
-        "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+     " Design refers to the visual and interactive aspects of a website or application. It involves creating the overall layout, typography, color schemes, graphics, and user interface (UI) elements. The goal of design is to create an aesthetically pleasing and user-friendly experience. Designers often use graphic design tools and software to create mockups or prototypes of the website or application before moving into the development phase."
+      ,
     },
     {
       id: 2,
